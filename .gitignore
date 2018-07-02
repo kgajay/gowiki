@@ -8,3 +8,5 @@
 ._*
 .idea/
 /bin/
+/pkg/
+/src/
